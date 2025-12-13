@@ -1,0 +1,6 @@
+======== WELCOME TO OUR VISITOR MANAGEMENT SYSTEM ========
+Person ID: 234
+Name: okay
+Visitor ID: 234
+Purpose: study
+
