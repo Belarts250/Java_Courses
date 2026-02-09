@@ -1,0 +1,36 @@
+======== WELCOME TO OUR VISITOR MANAGEMENT SYSTEM =======
+Person ID: 123
+Name: igihozo
+Visitor ID: 23
+Purpose of Visit: BUSINESS
+
+======== WELCOME TO OUR VISITOR MANAGEMENT SYSTEM =======
+Person ID: 989
+Name: bwiza
+Visitor ID: 973
+Purpose of Visit: MEETING
+
+WELCOME TO OUR VISITOR MANAGEMENT SYSTEM 
+Person ID: 98
+Name: Belise IGIHOZO
+Visitor ID: 9
+Purpose of Visit: BUSINESS
+
+WELCOME TO OUR VISITOR MANAGEMENT SYSTEM 
+Person ID: 98
+Name: Belise IGIHOZO
+Visitor ID: 9
+Purpose of Visit: BUSINESS
+
+WELCOME TO OUR VISITOR MANAGEMENT SYSTEM 
+Person ID: 12
+Name: Belise IGIHOZO
+Visitor ID: 13
+Purpose of Visit: DELIVERY
+
+WELCOME TO OUR VISITOR MANAGEMENT SYSTEM 
+Person ID: 10
+Name: Kaneza
+Visitor ID: 23
+Purpose of Visit: EDUCATION
+
