@@ -1,0 +1,22 @@
+<hibernate-configuration>
+    <session-factory>
+        <!-- PostgreSQL connection -->
+        <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+        <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/hospital_db</property>
+        <property name="hibernate.connection.username">postgres</property>
+        <property name="hibernate.connection.password">123what </property>
+
+        <!-- PostgreSQL dialect -->
+        <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
+
+        <!-- Show SQL -->
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.format_sql">true</property>
+
+        <!-- Auto-create tables -->
+        <property name="hibernate.hbm2ddl.auto">update</property>
+
+        <!-- Annotated classes -->
+        <mapping class="models.Patient"/>
+    </session-factory>
+</hibernate-configuration>
